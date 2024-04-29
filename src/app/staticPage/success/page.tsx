@@ -17,7 +17,7 @@ export default function stripeSuccess() {
           </p>
           <p>Have a great day!</p>
 
-          <Button asChild className="mt-5">
+          <Button className="mt-5">
             <Link href="/">GO back</Link>
           </Button>
         </div>
